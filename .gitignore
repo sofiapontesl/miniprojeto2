@@ -1,5 +1,6 @@
 # Diretórios e arquivos gerados por ambientes virtuais
 venv/
+.venv/
 .env/
 
 # Arquivos de configuração do sistema operacional
